@@ -1,0 +1,9 @@
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  margin: 20px;
+  font-size: 100px;
+  border: 2px solid black;
+}
